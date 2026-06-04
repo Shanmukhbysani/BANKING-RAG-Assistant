@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers natural-language questions over banking policy documents — with **grounded answers and source attribution**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shanmukhbysani/BANKING-RAG-Assistant/blob/main/banking_rag_assistant.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TfdqRd_FBFgeKYL3xVpaQgO68-uE1LF9?usp=sharing)
 
 > Click the badge to run the interactive chatbot in your browser.
 
